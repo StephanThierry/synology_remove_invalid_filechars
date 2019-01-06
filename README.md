@@ -3,4 +3,4 @@ Sometimes during certain operations (it only happend to me once - I'm not quite 
   
 **Be careful where you run this command** It wil not only remove invalid chars, but all chars that are not in the specified range. Meaning you WILL loose ALL local characters that are not explicitly set in the script - even the ones that are NOT corrupt and working just fine!   
 
-At this moment exceptions for the most common north-european characters are already added - but many additional (lik french, spanish etc) are not included. 
+At this moment exceptions for the most common north-european characters are already added - but many additional (like french, spanish etc) are not included. 
